@@ -42,6 +42,12 @@ ou seja, pode ser definida como a medida de variação do atraso entre os pacote
  ROM - Read Only Memory
  
  
+ SRAM - Static Random Acess Memory
+   Não precisa de refresh, ou seja, não precisa reescrever a informação para mante-la
+
+ DRAM - Dinamic Random Access Memory
+   Precisa de refresh
+  
  RAM - Random Access Memory
     O acesso a qualquer posição de memoria leva o mesmo tempo, diferente do disco,
     onde o tempo de busca depende da posição do cabeçote/braço
