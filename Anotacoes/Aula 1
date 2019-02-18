@@ -1,0 +1,47 @@
+Introdução a Sistemas Embarcados
+
+Sistema Embarcados
+  - Sistema computacional que está dentro de outro Sistema
+
+Sistema em Tempo Real
+  - Sistema que deve obedecer a condições temporais, tanto de
+  tempo maximo quanto minimo.
+
+Sistema Reativo
+  - Sistema modelados para reagirem a estimulos externos, a ordem da execução depende
+  destes estimulos.
+
+Programas Interativos
+  Onde o usuario interage com o programa 
+
+
+Tipos de S.E.:
+ - Sistemas de Controle
+ - Sistema de Processamento de Sinais
+
+
+
+
+Extras:
+  Jitter é uma variação estatística do atraso na entrega de dados em uma rede,
+ou seja, pode ser definida como a medida de variação do atraso entre os pacotes sucessivos de dados.
+
+
+ Boucing e Deboucing
+
+ Flash EEPROM-
+  Apaga e escreve em blocos, aumentado o numero de reescritas
+
+ EEPROM - Eletrically Erasable Programable Read Only Memory
+
+ EPROM - Erasable Programable Read Only Memory
+
+ PROM - Programable Read Only Memory -
+   Só consegue ser escrita 1 vez.
+
+ ROM - Read Only Memory
+ 
+ 
+ RAM - Random Access Memory
+    O acesso a qualquer posição de memoria leva o mesmo tempo, diferente do disco,
+    onde o tempo de busca depende da posição do cabeçote/braço
